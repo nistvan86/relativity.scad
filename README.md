@@ -5,4 +5,4 @@ This is a stripped down version of the original repository which contains files 
 
 Please see the original repository for readme and updates: https://github.com/davidson16807/relativity.scad
 
-This also contains the fixed done by Leo Liang at: https://github.com/aleung/relativity.scad
+This also contains the fixes done by Leo Liang at: https://github.com/aleung/relativity.scad
